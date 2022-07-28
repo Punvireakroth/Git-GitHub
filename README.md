@@ -52,4 +52,8 @@ The commit author (you!)
 The date and time of the commit
 The commit message
 
-# Git Operations
+# How to Backtrack
+
+## Intro
+
+Git have features that allow us to undo mistakes when working on project.
