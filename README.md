@@ -39,3 +39,10 @@ When we use `git commit` we finally store the files in staging area to the repos
 ## git log
 
 we can refer back to the earlier version of a project by using `git log`
+
+the output would display
+
+Characters code, called a SHA, that uniquely identifies the commit. This appears in orange text.
+The commit author (you!)
+The date and time of the commit
+The commit message
