@@ -17,3 +17,7 @@ Git project have three parts
 3. `Repository` Where git permanently store those change as different versions of the project.
 
    Git workflow consists of editing files in the `working directory`, adding files to the `staging area`, and saving changes to a Git `repository`.
+
+## git status
+
+When you making change in a file you can check it with `git status`
