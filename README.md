@@ -35,3 +35,7 @@ After we added files to the staging area. But we have typed and make changes aft
 ## git commit
 
 When we use `git commit` we finally store the files in staging area to the repository. it mean we save change a version we satisfy with.
+
+## git log
+
+we can refer back to the earlier version of a project by using `git log`
