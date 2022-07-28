@@ -21,3 +21,9 @@ Git project have three parts
 ## git status
 
 When you making change in a file you can check it with `git status`
+
+Note: when you see `untracked files` it mean Git see the file but has not stated tracking changes yet.
+
+## git add
+
+As I Mention above untracked files are files that git doesn't tracking yet so to make git track those file we need to use `git add "filename"`
