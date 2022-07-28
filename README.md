@@ -1,3 +1,8 @@
+# Table of content
+
+1. [Basic Git Workflow](#basic-git-workflow)
+2. [Git Operations](#git-operations)
+
 # Basic Git Workflow
 
 ## Introduction
@@ -46,3 +51,5 @@ Characters code, called a SHA, that uniquely identifies the commit. This appears
 The commit author (you!)
 The date and time of the commit
 The commit message
+
+# Git Operations
