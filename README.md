@@ -27,3 +27,11 @@ Note: when you see `untracked files` it mean Git see the file but has not stated
 ## git add
 
 As I Mention above untracked files are files that git doesn't tracking yet so to make git track those file we need to use `git add "filename"`
+
+## git diff
+
+After we added files to the staging area. But we have typed and make changes after that so if we wanna know the difference between the working directory and staging area we can use `git diff filename`
+
+## git commit
+
+When we use `git commit` we finally store the files in staging area to the repository. it mean we save change a version we satisfy with.
