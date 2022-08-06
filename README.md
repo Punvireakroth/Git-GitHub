@@ -1,7 +1,7 @@
 # Table of content
 
 1. [Basic Git Workflow](#basic-git-workflow)
-2. [Git Operations](#how-to-backback)
+2. [Git Operations](#How-to-Backtrack)
 
 # Basic Git Workflow
 
@@ -81,3 +81,5 @@ You can add more than one file to the staging area
 ```
 git add file1 file2
 ```
+
+## git reset I
