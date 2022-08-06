@@ -65,3 +65,19 @@ the commit your currently on or recently made commit is called `HEAD`
 ```
 git show HEAD
 ```
+
+## git checkout
+
+```
+git checkout HEAD filename
+```
+
+It's will restore your file in working directory.
+
+## more git add
+
+You can add more than one file to the staging area
+
+```
+git add file1 file2
+```
