@@ -1,7 +1,7 @@
 # Table of content
 
 1. [Basic Git Workflow](#basic-git-workflow)
-2. [Git Operations](#git-operations)
+2. [Git Operations](#how-to-backback)
 
 # Basic Git Workflow
 
@@ -57,3 +57,11 @@ The commit message
 ## Intro
 
 Git have features that allow us to undo mistakes when working on project.
+
+## head commit
+
+the commit your currently on or recently made commit is called `HEAD`
+
+```
+git show HEAD
+```
